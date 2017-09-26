@@ -1,0 +1,74 @@
+body{
+
+	font-family: Audiowide, cursive;
+}
+
+p{
+	padding: 20px;
+	color: white;
+}
+
+#instructions{
+	background-color: #D84949;
+}
+
+h1{
+	color: white;
+	text-align: center;
+
+}
+
+#header{
+	width: 100%;
+	height: 80px;
+	background-color: #ED5151;
+	padding: 10px;
+}
+
+.crystalImage{
+	width: 100px;
+	height: 100px;
+}
+
+#crystals{
+	margin: auto 20% auto 25%;
+}
+
+#numbers{
+	align-content: center;
+	margin-bottom: 20px;
+	margin-left: 8%;
+}
+
+#matchnumber{
+	width: 30%;
+	height: 100px;
+	background-color: #F25555;
+	display: inline-block;
+	float: left;
+	text-align: center;
+}
+
+#winloss{
+	width: 30%;
+	height: 100px;
+	display: inline-block;
+}
+
+.winbox{
+	width: 100%;
+	height: 50px;
+	background-color: green;
+	text-align: center;
+}
+
+#score{
+		width: 30%;
+		height: 100px;
+		background-color: #C01515;
+		display: inline-block;
+		text-align: center;
+		position: absolute;
+}
+
+
